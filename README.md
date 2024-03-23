@@ -27,7 +27,7 @@
 
 [<img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="50">](https://git-scm.com/)
 [<img src="https://raw.githubusercontent.com/github/explore/main/topics/postman/postman.png" width="50">](https://www.postman.com/)
-[<img src="https://raw.githubusercontent.com/github/explore/main/topics/clion/clion.png" width="50">](https://www.jetbrains.com/clion/)
+[<img src="https://raw.githubusercontent.com/github/explore/main/topics/vscode/vscode.png" width="50">](https://code.visualstudio.com/)
 [<img src="https://raw.githubusercontent.com/github/explore/main/topics/intellij-idea/intellij-idea.png" width="50">](https://www.jetbrains.com/idea/)
 [<img src="https://raw.githubusercontent.com/github/explore/main/topics/pycharm/pycharm.png" width="50">](https://www.jetbrains.com/pycharm/)
 [<img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" width="50">](https://www.docker.com/)
