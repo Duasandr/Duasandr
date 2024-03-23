@@ -1,5 +1,5 @@
 <h1 align="center">Sandro Duarte</h1>
-----
+
 
 <p align="center">As a dedicated software engineer, this portfolio represents my best attempt to showcase my projects and skills. It's a work in progress, and I'm committed to continuously adding new and better projects to demonstrate my capabilities and expertise.</p>
 
@@ -15,8 +15,6 @@
 | PL  | Toml language compiler. | [PL](https://github.com/Duasandr/PL2023TP) |
 | ENGWEB | Containarised web site with database interaction.  | [ENGWEB](https://github.com/Duasandr/ENGWEB2023-Projeto) |
 | DSS | Auto repair management system.  | [DSS](https://github.com/Duasandr/dss_tp_23_24) |
-
-## Language Stack
 
 ## Language Stack
 
