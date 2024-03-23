@@ -1,6 +1,6 @@
 <h1 align="center">Sandro Duarte</h1>
 
-<p align="center">As a dedicated software engineer, this portfolio represents my best attempt to showcase my projects and skills. It's a work in progress, and I'm committed to continuously adding new and better projects to demonstrate my capabilities and expertise.</p>
+<p>As a dedicated software engineer, this portfolio represents my best attempt to showcase my projects and skills. It's a work in progress, and I'm committed to continuously adding new and better projects to demonstrate my capabilities and expertise.</p>
 
 ----
 
@@ -15,10 +15,19 @@
 | Web Engineering | Containerized website with database interaction | [Repository](https://github.com/Duasandr/ENGWEB2023-Projeto) |
 | Software Development | Auto repair management system | [Repository](https://github.com/Duasandr/dss_tp_23_24) |
 
-## Language Stack
+## Preferred Language Stack
 
 [<img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" width="50">](https://en.wikipedia.org/wiki/C%2B%2B)
 [<img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" width="50">](https://en.wikipedia.org/wiki/Java_(programming_language))
 [<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="50">](https://en.wikipedia.org/wiki/Python_(programming_language))
 [<img src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" width="50">](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 [<img src="https://raw.githubusercontent.com/github/explore/main/topics/haskell/haskell.png" width="50">](https://en.wikipedia.org/wiki/Haskell_(programming_language))
+
+## Software and Tools Used
+
+[<img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="50">](https://git-scm.com/)
+[<img src="https://raw.githubusercontent.com/github/explore/main/topics/postman/postman.png" width="50">](https://www.postman.com/)
+[<img src="https://raw.githubusercontent.com/github/explore/main/topics/clion/clion.png" width="50">](https://www.jetbrains.com/clion/)
+[<img src="https://raw.githubusercontent.com/github/explore/main/topics/intellij-idea/intellij-idea.png" width="50">](https://www.jetbrains.com/idea/)
+[<img src="https://raw.githubusercontent.com/github/explore/main/topics/pycharm/pycharm.png" width="50">](https://www.jetbrains.com/pycharm/)
+[<img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" width="50">](https://www.docker.com/)
