@@ -9,12 +9,12 @@
 
 | Subject | Description | Link |
 |---------|-------------|------|
-| LI1 | Pacman game developed in Haskell | [LI1](https://github.com/umli12021/grupo14) |
-| SO  | Client/Server application that allowed file encryption/decryption | [SOClient](https://github.com/Duasandr/TP_SO_2122_sdstored) |
-| POO | Smart House management application. | [POO](https://github.com/Duasandr/TP_POO_2122) |
-| PL  | Toml language compiler. | [PL](https://github.com/Duasandr/PL2023TP) |
-| ENGWEB | Containarised web site with database interaction.  | [ENGWEB](https://github.com/Duasandr/ENGWEB2023-Projeto) |
-| DSS | Auto repair management system.  | [DSS](https://github.com/Duasandr/dss_tp_23_24) |
+| Laboratories 1 | Pacman game developed in Haskell | [](https://github.com/umli12021/grupo14) |
+| Operating Systems  | Client/Server application that allowed file encryption/decryption | [](https://github.com/Duasandr/TP_SO_2122_sdstored) |
+| Object Oriented Programming | Smart House management application. | [](https://github.com/Duasandr/TP_POO_2122) |
+| Language processing  | Toml language compiler. | [](https://github.com/Duasandr/PL2023TP) |
+| Web Engeneering | Containarised web site with database interaction.  | [](https://github.com/Duasandr/ENGWEB2023-Projeto) |
+| Software Development | Auto repair management system.  | [](https://github.com/Duasandr/dss_tp_23_24) |
 
 ## Language Stack
 
