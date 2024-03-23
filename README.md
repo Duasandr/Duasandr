@@ -22,12 +22,3 @@
 [<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="50">](https://en.wikipedia.org/wiki/Python_(programming_language))
 [<img src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" width="50">](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 [<img src="https://raw.githubusercontent.com/github/explore/main/topics/haskell/haskell.png" width="50">](https://en.wikipedia.org/wiki/Haskell_(programming_language))
-
-## Software and Tools Used
-
-[<img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="50">](https://git-scm.com/)
-[<img src="https://raw.githubusercontent.com/github/explore/main/topics/postman/postman.png" width="50">](https://www.postman.com/)
-[<img src="https://raw.githubusercontent.com/github/explore/main/topics/vscode/vscode.png" width="50">](https://code.visualstudio.com/)
-[<img src="https://raw.githubusercontent.com/github/explore/main/topics/intellij-idea/intellij-idea.png" width="50">](https://www.jetbrains.com/idea/)
-[<img src="https://raw.githubusercontent.com/github/explore/main/topics/pycharm/pycharm.png" width="50">](https://www.jetbrains.com/pycharm/)
-[<img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" width="50">](https://www.docker.com/)
