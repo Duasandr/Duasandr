@@ -8,6 +8,7 @@
 
 | Subject | Description | Link |
 |---------|-------------|------|
+| Computer Graphics | General Purpose Graphics Engine | [Repository](https://github.com/Duasandr/CG2023) |
 | Laboratories 1 | Pacman game developed in Haskell | [Repository](https://github.com/umli12021/grupo14) |
 | Operating Systems  | Client/Server application that allowed file encryption/decryption | [Repository](https://github.com/Duasandr/TP_SO_2122_sdstored) |
 | Object Oriented Programming | Smart House management application | [Repository](https://github.com/Duasandr/TP_POO_2122) |
